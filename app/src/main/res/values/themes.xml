@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MeloMind" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:colorPrimary">@color/custum</item>
+
+
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="TransparentActionBar" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+
+
+    <style name="NoActionbar" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
